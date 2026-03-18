@@ -1,42 +1,30 @@
-# Credit Risk Prediction
+# 📊 Predicción de Riesgo Crediticio
 
-Machine Learning project for predicting credit risk using the German Credit Dataset.
+## 📌 Descripción del Proyecto
+Este proyecto utiliza técnicas de Machine Learning para predecir el riesgo crediticio de clientes a partir de sus características financieras.
 
-## Project Overview
+## 🧠 Modelo Utilizado
+- Regresión Logística
 
-This project analyzes financial data to predict whether a customer represents a credit risk.  
-The model was built using Logistic Regression and evaluated using classification metrics.
+## 📈 Resultados
+- Accuracy del modelo: 79.5%
 
-## Technologies Used
+## 📊 Visualizaciones
+Se incluye la matriz de confusión para evaluar el rendimiento del modelo.
 
+## 🛠️ Tecnologías utilizadas
 - Python
 - Pandas
 - NumPy
 - Scikit-learn
-- Seaborn
 - Matplotlib
-- Jupyter Notebook
+- Seaborn
 
-## Machine Learning Pipeline
-
-1. Data Loading
-2. Exploratory Data Analysis (EDA)
-3. Feature Encoding
-4. Data Scaling
-5. Model Training (Logistic Regression)
-6. Model Evaluation
-
-## Model Performance
-
-Accuracy achieved: **79.5%**
-
-Confusion Matrix:
-
-![Confusion Matrix](images/confusion_matrix.png)
-
-## Dataset
-
-German Credit Dataset
+## 📁 Estructura del proyecto
+- data/: datos
+- notebooks/: análisis
+- src/: código
+- imagenes/: gráficos
 
 ## Author
 
