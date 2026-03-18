@@ -56,8 +56,6 @@
 
 ## \## 📈 Resultados del modelo
 
-## 
-
 ## \- Accuracy: \*\*79.5%\*\*
 
 ## 
@@ -78,7 +76,7 @@
 
 ## 
 
-## !\[Confusion Matrix](imagenes/confusion\_matrix.png)
+## !\[Matriz de confusión](imagenes/confusion\_matrix.png)
 
 ## 
 
@@ -114,11 +112,11 @@
 
 ## 
 
-## \## 📁 Estructura del proyecto
+## \## 👨‍💻 Autor
 
 ## 
 
-## \## Author
+## Eduardo Sebastian Garro  
 
-Eduardo Sebastian Garro
+## Data Analyst | SQL | Python | Power BI | Machine Learning
 
