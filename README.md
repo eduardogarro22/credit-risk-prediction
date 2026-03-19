@@ -1,122 +1,122 @@
-## \# 📊 Predicción de Riesgo Crediticio
+\# 📊 Predicción de Riesgo Crediticio
 
-## 
 
-## \## 📌 Descripción del Proyecto
 
-## Este proyecto utiliza técnicas de Machine Learning para predecir el riesgo crediticio de clientes a partir del dataset German Credit.
+\## 📌 Descripción del Proyecto
 
-## 
+Este proyecto utiliza técnicas de Machine Learning para predecir el riesgo crediticio de clientes a partir del dataset German Credit.
 
-## El objetivo es identificar clientes con alta probabilidad de incumplimiento financiero.
 
-## 
 
-## \---
+El objetivo es identificar clientes con alta probabilidad de incumplimiento financiero.
 
-## 
 
-## \## ⚙️ Tecnologías utilizadas
 
-## \- Python
+\---
 
-## \- Pandas
 
-## \- NumPy
 
-## \- Scikit-learn
+\## ⚙️ Tecnologías utilizadas
 
-## \- Matplotlib
+\- Python
 
-## \- Seaborn
+\- Pandas
 
-## \- Jupyter Notebook
+\- NumPy
 
-## 
+\- Scikit-learn
 
-## \---
+\- Matplotlib
 
-## 
+\- Seaborn
 
-## \## 🧠 Modelo de Machine Learning
+\- Jupyter Notebook
 
-## Se implementó un modelo de \*\*Regresión Logística\*\* para clasificar clientes en:
 
-## 
 
-## \- 0 → Cliente sin riesgo
+\---
 
-## \- 1 → Cliente con riesgo
 
-## 
 
-## \---
+\## 🧠 Modelo de Machine Learning
 
-## 
+Se implementó un modelo de \*\*Regresión Logística\*\* para clasificar clientes en:
 
-## \## 📈 Resultados del modelo
 
-## \- Accuracy: \*\*79.5%\*\*
 
-## 
+\- 0 → Cliente sin riesgo
 
-## El modelo logra identificar correctamente la mayoría de los casos, aunque presenta algunos falsos negativos (clientes riesgosos no detectados).
+\- 1 → Cliente con riesgo
 
-## 
 
-## \---
 
-## 
+\---
 
-## \## 📊 Evaluación del modelo
 
-## 
 
-## \### Matriz de confusión
+\## 📈 Resultados del modelo
 
-## 
+\- Accuracy: \*\*79.5%\*\*
 
-## !\[Matriz de confusión](imagenes/confusion\_matrix.png)
 
-## 
 
-## \---
+El modelo logra identificar correctamente la mayoría de los casos, aunque presenta algunos falsos negativos (clientes riesgosos no detectados).
 
-## 
 
-## \## 🔍 Análisis exploratorio (EDA)
 
-## 
+\---
 
-## Se realizaron visualizaciones para entender los patrones de riesgo:
 
-## 
 
-## \- Relación entre monto del crédito y riesgo
+\## 📊 Evaluación del modelo
 
-## \- Distribución de variables
 
-## \- Correlaciones entre variables
 
-## 
+\### Matriz de confusión
 
-## \### Heatmap de correlación
 
-## 
 
-## !\[Correlation](imagenes/correlation\_heatmap.png)
+!\[Matriz de confusión](imagenes/confusion\_matrix.png)
 
-## 
 
-## \---
 
-## 
+\---
 
-## \## 👨‍💻 Autor
 
-## 
 
-## Eduardo Sebastian Garro  
+\## 🔍 Análisis exploratorio (EDA)
 
-## Data Analyst | SQL | Python | Power BI | Machine Learning
+
+
+Se realizaron visualizaciones para entender los patrones de riesgo:
+
+
+
+\- Relación entre monto del crédito y riesgo
+
+\- Distribución de variables
+
+\- Correlaciones entre variables
+
+
+
+\### Heatmap de correlación
+
+
+
+!\[Heatmap](imagenes/correlation\_heatmap.png)
+
+
+
+\---
+
+
+
+\## 👨‍💻 Autor
+
+
+
+\*\*Eduardo Sebastián Garro\*\*  
+
+Data Analyst | SQL | Python | Power BI | Machine Learning
 
