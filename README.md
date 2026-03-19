@@ -12,8 +12,6 @@ El objetivo es identificar clientes con alta probabilidad de incumplimiento fina
 
 
 
-\---
-
 
 
 \## Tecnologías utilizadas
@@ -34,8 +32,6 @@ El objetivo es identificar clientes con alta probabilidad de incumplimiento fina
 
 
 
-\---
-
 
 
 \## Modelo de Machine Learning
@@ -50,8 +46,6 @@ Se implementó un modelo de \*\*Regresión Logística\*\* para clasificar client
 
 
 
-\---
-
 
 
 \## Resultados del modelo
@@ -63,8 +57,6 @@ Se implementó un modelo de \*\*Regresión Logística\*\* para clasificar client
 El modelo logra identificar correctamente la mayoría de los casos, aunque presenta algunos falsos negativos (clientes riesgosos no detectados).
 
 
-
-\---
 
 
 
@@ -80,7 +72,7 @@ El modelo logra identificar correctamente la mayoría de los casos, aunque prese
 
 
 
-\---
+
 
 
 
@@ -107,8 +99,6 @@ Se realizaron visualizaciones para entender los patrones de riesgo:
 !\[Heatmap](imagenes/correlation\_heatmap.png)
 
 
-
-\---
 
 
 
