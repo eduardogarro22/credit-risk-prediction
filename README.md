@@ -1,8 +1,8 @@
-\# 📊 Predicción de Riesgo Crediticio
+\# Predicción de Riesgo Crediticio
 
 
 
-\## 📌 Descripción del Proyecto
+\## Descripción del Proyecto
 
 Este proyecto utiliza técnicas de Machine Learning para predecir el riesgo crediticio de clientes a partir del dataset German Credit.
 
@@ -16,7 +16,7 @@ El objetivo es identificar clientes con alta probabilidad de incumplimiento fina
 
 
 
-\## ⚙️ Tecnologías utilizadas
+\## Tecnologías utilizadas
 
 \- Python
 
@@ -38,7 +38,7 @@ El objetivo es identificar clientes con alta probabilidad de incumplimiento fina
 
 
 
-\## 🧠 Modelo de Machine Learning
+\## Modelo de Machine Learning
 
 Se implementó un modelo de \*\*Regresión Logística\*\* para clasificar clientes en:
 
@@ -54,7 +54,7 @@ Se implementó un modelo de \*\*Regresión Logística\*\* para clasificar client
 
 
 
-\## 📈 Resultados del modelo
+\## Resultados del modelo
 
 \- Accuracy: \*\*79.5%\*\*
 
@@ -68,7 +68,7 @@ El modelo logra identificar correctamente la mayoría de los casos, aunque prese
 
 
 
-\## 📊 Evaluación del modelo
+\## Evaluación del modelo
 
 
 
@@ -84,7 +84,7 @@ El modelo logra identificar correctamente la mayoría de los casos, aunque prese
 
 
 
-\## 🔍 Análisis exploratorio (EDA)
+\## Análisis exploratorio (EDA)
 
 
 
@@ -112,11 +112,11 @@ Se realizaron visualizaciones para entender los patrones de riesgo:
 
 
 
-\## 👨‍💻 Autor
+\## Autor
 
 
 
-\*\*Eduardo Sebastián Garro\*\*  
+\*\*Eduardo Sebastián Garro\*\*
 
 Data Analyst | SQL | Python | Power BI | Machine Learning
 
