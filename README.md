@@ -1,8 +1,8 @@
-\# 📊 Predicción de Riesgo Crediticio
+# 📊 **Predicción de Riesgo Crediticio**
 
 
 
-\## 📌 Descripción del Proyecto
+#### 📌 Descripción del Proyecto
 
 
 
@@ -12,13 +12,9 @@ Este proyecto utiliza técnicas de Machine Learning para predecir el riesgo cred
 
 El objetivo es identificar clientes con alta probabilidad de incumplimiento financiero.
 
+#### 
 
-
-\---
-
-
-
-\## ⚙️ Tecnologías utilizadas
+#### ⚙️ Tecnologías utilizadas
 
 
 
@@ -38,11 +34,7 @@ El objetivo es identificar clientes con alta probabilidad de incumplimiento fina
 
 
 
-\---
-
-
-
-\## 🧠 Modelo de Machine Learning
+#### 🧠 Modelo de Machine Learning
 
 
 
@@ -50,17 +42,13 @@ Se implementó un modelo de \*\*Regresión Logística\*\* para clasificar client
 
 
 
-\- 0 → Cliente sin riesgo  
+\- 0 → Cliente sin riesgo
 
-\- 1 → Cliente con riesgo  
-
-
-
-\---
+\- 1 → Cliente con riesgo
 
 
 
-\## 📈 Resultados del modelo
+#### 📈 Resultados del modelo
 
 
 
@@ -72,15 +60,11 @@ El modelo logra identificar correctamente la mayoría de los casos, aunque prese
 
 
 
-\---
+#### 📊 Evaluación del modelo
 
 
 
-\## 📊 Evaluación del modelo
-
-
-
-\### Matriz de confusión
+##### Matriz de confusión
 
 
 
@@ -88,11 +72,7 @@ El modelo logra identificar correctamente la mayoría de los casos, aunque prese
 
 
 
-\---
-
-
-
-\## 🔍 Análisis exploratorio (EDA)
+#### 🔍 Análisis exploratorio (EDA)
 
 
 
@@ -100,31 +80,27 @@ Se realizaron visualizaciones para entender los patrones de riesgo:
 
 
 
-\- Relación entre monto del crédito y riesgo  
+\- Relación entre monto del crédito y riesgo
 
-\- Distribución de variables  
+\- Distribución de variables
 
-\- Correlaciones entre variables  
+\- Correlaciones entre variables
 
 
 
-\### Heatmap de correlación
+##### Heatmap de correlación
 
 
 
 !\[Heatmap](imagenes/correlation\_heatmap.png)
 
+#### 
 
-
-\---
-
-
-
-\## 👨‍💻 Autor
+#### 👨‍💻 Autor
 
 
 
-\*\*Eduardo Sebastián Garro\*\*  
+###### Eduardo Sebastián Garro
 
-Data Analyst | SQL | Python | Power BI | Machine Learning
+###### Data Analyst | SQL | Python | Power BI | Machine Learning
 
